@@ -9,6 +9,7 @@ Additionally, I want to learn languages for an engineering application.
 🌱I'm currently learning:
 - Python
 - HTML
+
 I'm hoping to expand my knowledge of these languages and hopefully Javascript eventually.
 
 📫Feel free to connect with me on [LinkedIn](www.linkedin.com/in/aimeetai)
